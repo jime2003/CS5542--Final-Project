@@ -2,7 +2,7 @@
 
 Contributors: Jinal Patel (jptct@umsystem.edu), Kapil Sharma (ks4k5@umsystem.edu), Harsha Ramireddy (hrhf5@umsystem.edu), Alankirt Verma (avrkz@umsystem.edu)
 
-Notebooks:
+Notebooks: 
 
 Results: Please see the individual notebooks, the project paper: , and project presentation: Project Presentaion - 
 
